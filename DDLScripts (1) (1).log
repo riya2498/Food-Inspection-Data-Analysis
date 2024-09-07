@@ -1,0 +1,34 @@
+ER/Studio Data Architect Generate Database Facility Messages
+ 
+
+Creating/selecting database...
+   Create/Use Database...
+
+Generating Dependencies ...
+   Dependency Sql
+
+Generating Tables ...
+
+Generating Views ...
+
+Generating Indexes ...
+
+Generating Foreign Keys ...
+   Dim_Business
+   Dim_Date
+   DIm_Facility_Type
+   Dim_InspectionResult
+   Dim_InspectionType
+   DIm_Location
+   Dim_RiskCategory
+   DIm_Violation
+   Fct_Inspection
+   Fct_Violation
+
+Generating Model Post SQL ...
+   Model Post Sql
+Ending time: Sun Feb 25 16:06:19 2024
+ 
+ 
+Code Generation Complete
+ 
