@@ -29,6 +29,9 @@ This project analyzes food inspection datasets from two cities: Chicago and Dall
 3. **Reporting Tools**: Tableau, Power BI
 4. **Languages**: SQL, Bash, Excel Macros
 5. **Collaboration & Version Contro**l: Git, GitHub
+
+Note: To access Power BI file visit https://app.powerbi.com/groups/me/reports/7bf84b8a-86a1-453e-b536-e3f07e2b136f/ReportSection?experience=power-bi
+
 # Data Pipeline
 ## Data Profiling
 Data profiling was performed to ensure data quality and identify anomalies. We utilized y-data profiling to analyze the structure of the datasets for both cities, as detailed in the profiling reports:
